@@ -1,6 +1,10 @@
 # Responsive-food-website  
 
-![food](https://user-images.githubusercontent.com/79842525/139399004-15a735b8-eaee-4c96-b5d9-bb7a4bbd70cd.png)
+![food](https://user-images.githubusercontent.com/79842525/139399004-15a735b8-eaee-4c96-b5d9-bb7a4bbd70cd.png)  
+![food1](https://user-images.githubusercontent.com/79842525/139400240-baa6b7e2-b1c3-420a-8175-4add5d130d23.png)  
+![food2](https://user-images.githubusercontent.com/79842525/139400272-2f5ced3f-3972-406a-a471-f6e2cd254ed7.png)
+
+
 
   
   ## Contribution Guidelines 🏗
