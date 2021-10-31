@@ -1,6 +1,6 @@
 # Responsive-food-website  
   
- ### 🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)
+ ### 🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)
 
 ![food](https://user-images.githubusercontent.com/79842525/139399004-15a735b8-eaee-4c96-b5d9-bb7a4bbd70cd.png)  
 ![food1](https://user-images.githubusercontent.com/79842525/139400240-baa6b7e2-b1c3-420a-8175-4add5d130d23.png)  
